@@ -1,4 +1,4 @@
-# 🛡️ Zero-Knowledge Edge Identity System
+# 🛡️ AI Edge Identity System
 **Built for the AMD Slingshot Hackathon: "Human Imagination Built with AI"**
 
 ## 📖 Project Overview
